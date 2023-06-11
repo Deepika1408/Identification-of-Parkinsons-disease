@@ -1,1 +1,4 @@
 # Identification-of-Parkinsons-disease
+Abstract—Following Alzheimer’s, Parkinson’s disease is a neurodegenerative disease that affects a majority of people in the world. This disease brings a great loss of both nerve cells and neurological capacity because the cells that generate dopamine are harmed. This paper is to inspect Parkinson’s disease using a speech feature dataset, recording features of both Parkinson-affected people and healthy individuals. The dataset is processed, and the required features are fed into different machine learning predictive models which are relatively new. The efficiency and accuracy of the same algorithms are recorded and compared to show which algorithm serves the best for early and accurate predictions. 
+
+Keywords—Parkinson’s disease, Vocal dataset, Early detection, Predictive models, Precision-Recall comparison.
